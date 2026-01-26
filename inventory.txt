@@ -1,0 +1,6 @@
+Loafer Light, GoldStar,100, 1000, domestic
+Inigo 732, Caliber,100, 2800, domestic
+Lite Racer, Adidas,100, 7000, international
+NB 330,New Balance,5,3999.0,international
+12,sneaker,12,123.0,domestic
+Sneakerr,-11,11,10000.0,domestic

@@ -168,16 +168,7 @@ Grand Total: 500
 
 ---
 
-## 🎯 Learning Outcomes
 
-- Python file handling
-- Modular programming
-- Data persistence
-- Console-based application design
-- Invoice generation logic
-- Structured code organization
-
----
 
 ## 🧠 Key Concepts Demonstrated
 
